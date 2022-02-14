@@ -5,13 +5,13 @@ public class bodyMassIndex {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("How much do you weigh?");
+        System.out.println("How much do you weigh in pounds?");
         double weight = input.nextDouble();
 
-        System.out.println("How tall are you?");
+        System.out.println("How tall are you in feet?");
         int heightFeet = input.nextInt();
 
-        System.out.println("Enter height inches.");
+        System.out.println("Enter your height in inches.");
         int heightInInches = input.nextInt();
 
         int totalHeightInInches = (heightFeet * 12) + heightInInches;
