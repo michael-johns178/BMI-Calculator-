@@ -16,16 +16,8 @@ Any additional information goes here
 - https://github.com/michael-johns178
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
-## Screenshots
 
-! ScreenShoQuoteWebPage 
+
 
